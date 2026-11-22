@@ -1,0 +1,34 @@
+{
+  "input_shape": [
+    4,
+    3,
+    128
+  ],
+  "embedding_shape": [
+    4,
+    768
+  ],
+  "finite": true,
+  "batch_seconds": 3.9222574680002253,
+  "total_seconds": 37.689855069999794,
+  "torch_version": "2.9.1+cpu",
+  "python": "3.13.5",
+  "host": "esp-cloud",
+  "device": "cpu",
+  "threads": 4,
+  "timings": [
+    {
+      "threads": 2,
+      "batch_size": 16,
+      "seconds": 13.658173241999975,
+      "windows_per_second": 1.1714597345125717
+    },
+    {
+      "threads": 4,
+      "batch_size": 16,
+      "seconds": 12.246206023000013,
+      "windows_per_second": 1.3065270966330191
+    }
+  ],
+  "recommended_threads": 4
+}

@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-11-11T16:07:54.432742-05:00",
+  "hardware_count": 10,
+  "hardware_correct": 6,
+  "hardware_coverage": {
+    "STANDING": 2,
+    "WALKING": 3,
+    "WALKING_UPSTAIRS": 1,
+    "SITTING": 2,
+    "LAYING": 1,
+    "WALKING_DOWNSTAIRS": 1
+  },
+  "hardware_accuracy": 0.6,
+  "pending": [],
+  "example_cloud_ids": [
+    "f3fd17432c2746629f9d13938da15c67",
+    "a67cdffce2c941b1a86ecb5745fa2442"
+  ],
+  "requirements": {
+    "Task 2 paired output examples": true,
+    "Task 2 ten-window accuracy and consistency": true,
+    "Task 3 ten samples covering all classes": true,
+    "Task 3 measured generalization discussion": true,
+    "Task 5.1 input, accuracy, CPU runtime": true,
+    "Task 5.2 before/after accuracy": true,
+    "Task 5.3 pipeline and real input/output evidence": true
+  }
+}

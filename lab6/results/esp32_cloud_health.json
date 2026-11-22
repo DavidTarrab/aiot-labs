@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-11",
+  "transport": "ESP32 Wi-Fi HTTP GET through Google Cloud load balancer to esp-cloud:5000",
+  "endpoint": "http://136.82.132.175/",
+  "esp32_ip": "10.206.67.177",
+  "status_code": 200,
+  "response": {"prediction_ready": true, "sampling_rate": 50, "shape": [3, 128], "status": "ok", "units": "g"},
+  "scope": "Health endpoint only; this does not demonstrate live sample storage, inference, or OLED output."
+}

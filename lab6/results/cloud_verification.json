@@ -1,0 +1,24 @@
+{
+  "verified_at": "2026-11-11T20:08:36.850363+00:00",
+  "test_count": 2947,
+  "zero_shot_accuracy": 0.11231761112996268,
+  "probe_accuracy": 0.6851034760475159,
+  "encoder_matches_official_download": true,
+  "saved_probe_reproduces_all_predictions": true,
+  "train_embedding_shape": [
+    60,
+    768
+  ],
+  "test_embedding_shape": [
+    2947,
+    768
+  ],
+  "training_examples_per_class": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+  ]
+}

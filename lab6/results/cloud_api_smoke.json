@@ -1,0 +1,55 @@
+{
+  "checked_at": "2026-11-04T21:40:27.274763+00:00",
+  "source": "UCI benchmark replay; not live hardware",
+  "health": {
+    "prediction_ready": true,
+    "sampling_rate": 50,
+    "shape": [
+      3,
+      128
+    ],
+    "status": "ok",
+    "units": "g"
+  },
+  "storage_response": {
+    "id": "6a39551394cd4d3ba411be7bc0b7bbac",
+    "stored": true
+  },
+  "stored_on_disk": true,
+  "prediction": {
+    "class_index": 4,
+    "id": "a2c76780e3eb4b74a4fe950f4a6fa01a",
+    "label": "STANDING",
+    "probabilities": [
+      3.272924232078367e-06,
+      0.0025898111052811146,
+      6.28566849627532e-05,
+      0.43095532059669495,
+      0.5554547905921936,
+      0.01093400176614523
+    ],
+    "seconds": 0.8781215819999488
+  },
+  "matches_offline_test_window_prediction": true,
+  "previous_checks": [
+    {
+      "source": "UCI benchmark replay; not live hardware",
+      "health": {
+        "prediction_ready": false,
+        "sampling_rate": 50,
+        "shape": [
+          3,
+          128
+        ],
+        "status": "ok",
+        "units": "g"
+      },
+      "storage_response": {
+        "id": "94712e83b33947adbee8cb73930aae95",
+        "stored": true
+      },
+      "stored_on_disk": true,
+      "persisted_after_server_restart": true
+    }
+  ]
+}

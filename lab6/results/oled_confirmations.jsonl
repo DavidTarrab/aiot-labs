@@ -1,0 +1,7 @@
+{"at": "2026-11-11T20:15:16.546716+00:00", "confirmed_by": "wearer via local dashboard", "label": "STANDING", "source": "gemini", "capture_at": "2026-11-11T20:15:07.514063+00:00", "record_id": null}
+{"at": "2026-11-11T20:15:52.530598+00:00", "confirmed_by": "wearer via local dashboard", "label": "WALKING", "source": "gemini", "capture_at": "2026-11-11T20:15:41.646882+00:00", "record_id": null}
+{"at": "2026-11-11T20:25:27.626656+00:00", "confirmed_by": "wearer via local dashboard", "label": "WALKING_UPSTAIRS", "source": "cloud", "capture_at": null, "record_id": "cf9c29e316044804935dbb453bcd8471"}
+{"at": "2026-11-11T20:47:43.032371+00:00", "confirmed_by": "wearer via local dashboard", "checkpoint": "2", "label": "WALKING", "source": "gemini", "record_id": null, "capture_at": "2026-11-11T20:47:34.032879+00:00"}
+{"at": "2026-11-11T20:48:12.798593+00:00", "confirmed_by": "wearer via local dashboard", "checkpoint": "4", "label": "WALKING", "source": "cloud", "record_id": "f3fd17432c2746629f9d13938da15c67", "capture_at": null}
+{"at": "2026-11-11T20:53:12.080409+00:00", "confirmed_by": "wearer via local dashboard", "checkpoint": "2", "label": "LAYING", "source": "gemini", "record_id": null, "capture_at": "2026-11-11T20:53:07.687447+00:00"}
+{"at": "2026-11-11T20:53:39.532916+00:00", "confirmed_by": "wearer via local dashboard", "checkpoint": "2", "label": "WALKING", "source": "gemini", "record_id": null, "capture_at": "2026-11-11T20:53:29.449164+00:00"}

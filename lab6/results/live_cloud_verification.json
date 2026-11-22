@@ -1,0 +1,136 @@
+{
+  "verified_at": "2026-11-11T20:27:53.812255+00:00",
+  "records": [
+    {
+      "id": "c61888d0c1ea4b16b2cae14587a97aed",
+      "stage": "storage",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.00057087265957,
+      "window_sha256": "06e0f4eb02c629fddff4f95097943ab2ba9ed771202f96ad70ac3a862f539f1a"
+    },
+    {
+      "id": "26f2fe941da4479cb42e9a28877d037e",
+      "stage": "prediction",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.00062992919596,
+      "window_sha256": "643ef004e56ec27add805189d2851781d18abcac8a30aee25e5f6aaab9fd4fdb",
+      "label": "SITTING",
+      "reproduced_prediction": true,
+      "maximum_probability_difference": 0.0
+    },
+    {
+      "id": "3d73e6b063ef4c58bf7cbdc438f4d57f",
+      "stage": "storage",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.00057087265957,
+      "window_sha256": "cd2543a018a242bb8d841e281033e653883548b1757c7a297883f4dadf363b52"
+    },
+    {
+      "id": "a6773b7633434f4bb64c8811d9be4359",
+      "stage": "prediction",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.00064961473909,
+      "window_sha256": "12fc4f1f4055a75fdc3016505b24fba42444159a472a9eb0d3183d4e8109a0f3",
+      "label": "WALKING_UPSTAIRS",
+      "reproduced_prediction": true,
+      "maximum_probability_difference": 0.0
+    },
+    {
+      "id": "822f838da07a4402b3be5ca47d229ab1",
+      "stage": "prediction",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.000531501712814,
+      "window_sha256": "423119320c63e919ee9d92de06d309797ffc3b13a53309907a1a5c9962fa427c",
+      "label": "WALKING_UPSTAIRS",
+      "reproduced_prediction": true,
+      "maximum_probability_difference": 0.0
+    },
+    {
+      "id": "df71d5308ad24e35847bc10c7572be34",
+      "stage": "prediction",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.000531501712814,
+      "window_sha256": "85d45cc2abdd5d46dd203f3c99473bc6e7d652d9c0b3b5f54056ffd97e7def45",
+      "label": "WALKING_UPSTAIRS",
+      "reproduced_prediction": true,
+      "maximum_probability_difference": 0.0
+    },
+    {
+      "id": "813f9da7f1a4408c931307dab607b80c",
+      "stage": "storage",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.00047244540893,
+      "window_sha256": "de51ef463f384c83ad858616dfceb51e78101f88f2298ad798a50944440e775e"
+    },
+    {
+      "id": "cf9c29e316044804935dbb453bcd8471",
+      "stage": "prediction",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.00064961473909,
+      "window_sha256": "7c00a5e8efd55246d48f510bbafdf02ec9f39d67f85c46e105f71b87b64dc8bb",
+      "label": "WALKING_UPSTAIRS",
+      "reproduced_prediction": true,
+      "maximum_probability_difference": 0.0
+    },
+    {
+      "id": "284712ea41274c4a9ec3a3646c707a5c",
+      "stage": "storage",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.00047244540893,
+      "window_sha256": "1129d2c3806af6f4c9191263f1a3676c4818c1816897dd93a1160105af503876"
+    },
+    {
+      "id": "7fe3066a982e4674bc659afaddd48f2d",
+      "stage": "prediction",
+      "persisted": true,
+      "shape": [
+        3,
+        128
+      ],
+      "effective_sampling_rate": 50.000610243668326,
+      "window_sha256": "ac00d55d004081e9245134a0529073dceed6cfa9eb257a7a3185141a317d527b",
+      "label": "STANDING",
+      "reproduced_prediction": true,
+      "maximum_probability_difference": 0.0
+    }
+  ],
+  "all_persisted": true,
+  "live_predictions_reproduced": true,
+  "scope": "Real-device cloud records; visual OLED confirmation is separately recorded by the wearer."
+}

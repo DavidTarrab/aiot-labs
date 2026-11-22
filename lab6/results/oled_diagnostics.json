@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-11",
+  "initial_symptom": "Wearer reported blank OLED while watch commands still succeeded",
+  "simple_display_on": "Command succeeded; wearer reported still blank",
+  "i2c_address": "0x3c",
+  "pins": {"sda": 22, "scl": 20},
+  "repeated_i2c_scans": 5,
+  "all_scans_acknowledged": true,
+  "reinitialization_100khz": "Wearer confirmed diagnostic text visible",
+  "reinitialization_400khz": "Wearer confirmed original-speed diagnostic text visible",
+  "recovery": "screen_on now reapplies full SSD1306 initialization and invalidates the redraw cache",
+  "dashboard_recovery_action_verified": true,
+  "restored_firmware": "lab6_dt2811_ms7635_rnb2135_check4_esp32.py",
+  "wearer_confirmed_restored_message": "OLED RECOVERED",
+  "conclusion": "Restored by controller reinitialization. Failure origin undetermined; both bus speeds work, but intermittent power or wiring disturbances are not excluded."
+}

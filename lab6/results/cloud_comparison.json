@@ -1,0 +1,7 @@
+{
+  "zero_shot_accuracy": 0.11231761112996268,
+  "linear_probe_accuracy": 0.6851034760475159,
+  "improvement_percentage_points": 57.27858649175532,
+  "test_count": 2947,
+  "device": "cpu"
+}

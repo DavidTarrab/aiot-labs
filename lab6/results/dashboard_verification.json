@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-11",
+  "dashboard": "http://127.0.0.1:8766",
+  "http_page_and_status_verified": true,
+  "separate_checkpoint_panels": [1, 2, 3, 4],
+  "isolation_tests_passed": 4,
+  "test_module": "test_dashboard.py",
+  "tests_use_isolated_synthetic_fixtures": true,
+  "cases": [
+    "Checkpoint 1 with watch busy and VM unavailable",
+    "Checkpoint 2 with no VM or checkpoint 1 results",
+    "Checkpoint 3 without Gemini or inference",
+    "Checkpoint 4 first, without storage or Gemini"
+  ]
+}

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.gemini_api_key
+data/
+vendor/
+weights/
+artifacts/
+cloud-wheelhouse/
+text_model/
+*.zip

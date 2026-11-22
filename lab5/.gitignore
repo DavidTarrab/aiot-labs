@@ -1,0 +1,4 @@
+.gemini_api_key
+.venv/
+__pycache__/
+.gradio/

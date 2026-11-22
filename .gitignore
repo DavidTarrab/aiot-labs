@@ -1,0 +1,22 @@
+.DS_Store
+._*
+.venv/
+__pycache__/
+*.py[cod]
+.gradio/
+.env
+.env.*
+!.env.example
+.gemini_api_key
+*.pem
+*.key
+*.zip
+lab6/data/
+lab6/vendor/
+lab6/weights/
+lab6/artifacts/
+lab6/cloud-wheelhouse/
+lab6/text_model/
+lab6/logs/
+lab6/lab6/
+lab6/lab6 2/

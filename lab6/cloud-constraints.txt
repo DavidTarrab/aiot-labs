@@ -1,0 +1,4 @@
+# Matched CPU wheels used for the measured Debian 13 VM run.
+torch==2.9.1+cpu
+torchaudio==2.9.1+cpu
+torchvision==0.24.1+cpu

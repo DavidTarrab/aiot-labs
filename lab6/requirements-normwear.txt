@@ -1,0 +1,12 @@
+-r requirements.txt
+torchaudio
+torchvision
+transformers>=4.40,<5
+timm>=0.9
+scipy>=1.12
+einops
+pandas
+scikit-learn
+PyWavelets
+tabulate
+tqdm
